@@ -11,4 +11,4 @@ Aplicación web Open Source para dividir, reescalar e imprimir imágenes (`PNG`,
 
 ## 👨‍💻 Autor
 Desarrollado por **José María Ortiz Escamilla** (Ing. en TICs • Full-Stack & Web Tools)
-- Repositorio: [https://github.com/JoseMariaOrtiz/TileForge-Studio]([https://github.com/JoseMariaOrtiz/TileForge-Studio](https://github.com/JoseOE/TileForge-Studio))
+- Repositorio: [https://github.com/JoseMariaOrtiz/TileForge-Studio](https://github.com/JoseOE/TileForge-Studio)
